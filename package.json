@@ -1,0 +1,17 @@
+{
+  "name": "poll-forever",
+  "version": "1.0.0",
+  "description": "Polls a test function until it returns true.",
+  "repository": "https://github.com/basti1302/node-poll-forever.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Bastian Krol <bastian.krol@web.de>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
+  },
+  "license": "MIT"
+}
